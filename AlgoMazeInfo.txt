@@ -1,0 +1,3 @@
+HackFmi 4 - Team Flashbug
+Project: AlgoMaze 
+Contributors: Kamen, Hristo, Iliq and Vasil
